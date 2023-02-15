@@ -1,0 +1,9 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.grayed-out {
+  opacity: 0.2;
+  transition: opacity 0.4s;
+}

@@ -1,0 +1,29 @@
+.card {
+  z-index: 100;
+  position: fixed;
+  top: 16vh;
+  left: 10%;
+  width: 80%;
+  background: greenyellow;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+  border-radius: 8px;
+}
+
+.card__header {
+  width: 100%;
+  padding: 1rem 0.5rem;
+  background: #2a006e;
+  color: white;
+}
+
+.card__header h2 {
+  margin: 0.5rem;
+}
+
+.card__content {
+  padding: 1rem 0.5rem;
+}
+
+.card__footer {
+  padding: 1rem 0.5rem;
+}
